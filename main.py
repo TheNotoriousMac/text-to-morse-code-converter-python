@@ -1,5 +1,5 @@
 """
-Text to Morse Code Converter created with basic python.
+Text to Morse Code Converter created with basic python...
 """
 
 MORSE_CODE_DICT = { 'A':'.-', 'B':'-...',
